@@ -3,6 +3,8 @@
 	https://gitee.com/ldcsaa/VC-Logger.git
 	
 	https://github.com/ldcsaa/VC-Logger.git
+	
+	https://github.com/ldcsaa/vc-common-src
 
 （注：VC-Logger v2.0.3 依赖 vc-common-src-2.3.2 中的基础公共代码。因此，编译 VC-Logger v2.0.3 时需要同时下载 vc-common-src-2.2.2）
 
